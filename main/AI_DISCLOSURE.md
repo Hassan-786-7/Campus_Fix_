@@ -10,4 +10,3 @@ Assistance included:
 
 The CampusFix application logic in `main.cpp`, `CampusFix.h` and `Functions.cpp` was taken from the uploaded project archive; it was not newly authored as a replacement implementation in this package. The original source files are included. Test results are based on the execution performed while preparing this package.
 
-The student should review all files and follow their instructor's rules for disclosure and permitted AI assistance. Complete any required personal details (student name, registration number, course section, instructor and institution) yourself.
